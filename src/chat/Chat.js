@@ -4,7 +4,7 @@ import './Chat.css';
 // Only Mistral AI is used
 const bot = {
   name: "Mistral AI",
-  key: "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",
+  key: "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",
   apiUrl: "https://openrouter.ai/api/v1/chat/completions",
   model: "mistralai/mistral-7b-instruct"
 };
